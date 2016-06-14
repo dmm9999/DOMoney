@@ -1,6 +1,6 @@
 module.exports = {
   context: __dirname,
-  entry: "./lib/jquery_lite.js",
+  entry: "./lib/domoney.js",
   output: {
     path: "./lib/",
     publicPath: "/js/",
